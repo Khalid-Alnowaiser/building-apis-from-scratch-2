@@ -24,4 +24,6 @@ public class UserEntity {
     private String phoneNumber;
     @Column
     private String email;
+    @Column
+    private String status;
 }
